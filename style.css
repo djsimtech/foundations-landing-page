@@ -104,3 +104,33 @@ li a {
   text-align: center;
   margin: 8px;
 }
+
+.quote-container {
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.quote {
+  max-width: 795px;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: left;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  color: #1f2937;
+}
+
+.signature {
+  align-self: end;
+  margin-right: 35%;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 600;
+  color: #1f2937;
+}
