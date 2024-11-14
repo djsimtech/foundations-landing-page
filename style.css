@@ -10,6 +10,11 @@ li {
   color: #e5e7eb;
 }
 
+li a {
+  text-decoration: none;
+  color: #e5e7eb;
+}
+
 .header-container {
   background-color: #1f2937;
   font-family: "Roboto";
