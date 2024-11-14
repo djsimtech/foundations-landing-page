@@ -164,3 +164,11 @@ li a {
   font-weight: bolder;
   font-size: 18px;
 }
+
+.footer {
+  background-color: #1f2937;
+  font-family: "Roboto";
+  color: #f9faf8;
+  text-align: center;
+  padding: 20px;
+}
